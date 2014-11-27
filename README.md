@@ -1,4 +1,4 @@
-customgenerators
+Sample Code Generator
 ================
 
-Custom code generators for GenMyModel
+A sample of custom code generator for GenMyModel using Acceleo M2T technology.
