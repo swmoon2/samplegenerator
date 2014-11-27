@@ -1,0 +1,25 @@
+*.class
+*.java
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Java/Acceleo Compile #
+target/
+bin/
+META-INF/
+*.acceleo
+*.properties
+*.java.lost
+
+# Emacs Files #
+*~
+
+# Eclipse Files #
+.classpath
+.project
+.settings/
+.metadata
+
